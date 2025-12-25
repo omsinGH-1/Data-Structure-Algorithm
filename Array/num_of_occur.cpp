@@ -22,6 +22,6 @@ int main()
             count++;
         }
     }
-    cout<<"Total occur : "<<endl;
+    cout<<"Total occur : "<<count<<endl;
     return 0;
 }
