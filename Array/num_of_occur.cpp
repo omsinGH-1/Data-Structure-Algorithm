@@ -14,11 +14,11 @@ int main()
     int find_elem;
     cout<<"Enter elem of total occur find: ";
     cin>>find_elem;
+    int count=0;
     for( int i=0;i<n;i++ )
     {
         if(arr[i]==find_elem)
         {
-            int count=0;
             count++;
         }
     }
