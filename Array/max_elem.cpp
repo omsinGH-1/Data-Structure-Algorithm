@@ -1,3 +1,5 @@
+// max elem
+
 #include<iostream>
 using namespace std;
 int main()
@@ -20,3 +22,4 @@ int main()
     cout<<"Max elem: "<<max<<endl;
     return 0;
 }
+

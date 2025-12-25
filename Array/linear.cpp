@@ -1,3 +1,16 @@
+
+
+
+
+
+
+
+
+
+
+
+
+// linear
 // linea seach , if elem found give its index , else return -1
 #include<iostream>
 using namespace std;
@@ -29,4 +42,10 @@ int main()
     else cout<<"-1"<<endl;
     return 0;
 }
+
+
+
+
+
+
 
